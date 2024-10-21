@@ -1,0 +1,1 @@
+#!"!"!"!"!"!"!! Hvordan faen går det med livet
