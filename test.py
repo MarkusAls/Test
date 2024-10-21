@@ -4,3 +4,6 @@ print("halla")
 
 
 #hvordan går livet i saksumsdalen
+
+
+#Vet ikke
